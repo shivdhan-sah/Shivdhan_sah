@@ -63,24 +63,17 @@
 ---
 
 ### 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shivdhan_Sah&theme=onedark&column=6" alt="Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shivdhan_Sah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivdhan_Sah&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Shivdhan_Sah&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivdhan_Sah&theme=tokyonight&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivdhan_Sah&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivdhan_Sah&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Shivdhan_Sah&label=Profile%20Views&color=00F0FF&style=flat" alt="Profile Views" />
