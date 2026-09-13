@@ -64,15 +64,15 @@
 
 ### 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&layout=compact&hide_border=true" width="48%" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=Shivdhan-Sah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivdhan-Sah&theme=tokyonight&layout=compact&hide_border=true)
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=Shivdhan-Sah&theme=tokyonight&hide_border=true)
+
+---
+
+![](https://komarev.com/ghpvc/?username=ShivdhanSah&label=Profile%20Views&color=00F0FF&style=flat)
 ---
 
 <p align="center">
