@@ -64,7 +64,7 @@
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shivdhan_Sah&theme=onedark&column=6" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Shivdhan-Sah&theme=onedark&column=6" alt="Trophies" />
 </p>
 
 <p align="center">
